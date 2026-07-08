@@ -11,4 +11,4 @@ https://amineelhichami.github.io/Portfolio
 
 ## 📬 Contact
 Email: amine.elhichami1@gmail.com
-LinkedIn: https://www.linkedin.com/in/amine-el-hichami-8742a7357
+LinkedIn: https://www.linkedin.com/in/amine-el-hichami
