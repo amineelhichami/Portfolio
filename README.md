@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects and skills.
 
 ## 🚀 Live Demo
-https://amineelhichami.github.io/Portfolio
+https://amineelhichami.github.io/amineelhichami
 
 ## 🛠️ Built With
 - HTML5
