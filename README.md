@@ -10,5 +10,6 @@ https://amineelhichami.github.io/amineelhichami
 - CSS3
 
 ## 📬 Contact
-Email: amine.elhichami1@gmail.com
-LinkedIn: https://www.linkedin.com/in/amine-el-hichami
+- Email: amine.elhichami1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amine-el-hichami
+- Instagram: https://www.instagram.com/amineelhichamii
